@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\bb repeat 2024 jan-jun\MAD IT20\Lab Exam 4\Note-App\Note-App\Note-App\app\src\main\shaders"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\bb repeat 2024 jan-jun\MAD IT20\Lab Exam 4\Note-App\Note-App\Note-App\app\src\debug\shaders"/></dataSet></merger>

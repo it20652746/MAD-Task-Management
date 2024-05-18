@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/note_item.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/note_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.example.myapplication.app-mergeDebugResources-30:\\layout\\note_item.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.example.myapplication.app-main-33:\\layout\\note_item.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/activity_update_note.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/activity_update_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.example.myapplication.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.example.myapplication.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.example.myapplication.app-mergeDebugResources-30:\\layout\\activity_add_note.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.example.myapplication.app-main-33:\\layout\\activity_add_note.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-30:/layout/activity_add_note.xml",
+        "source": "com.example.myapplication.app-main-33:/layout/activity_add_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.example.myapplication.app-mergeDebugResources-30:\\layout\\activity_update_note.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.2\\com.example.myapplication.app-main-33:\\layout\\activity_update_note.xml"
+    }
+]
